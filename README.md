@@ -1,6 +1,6 @@
 # v2ex
 
-> A Vue.js project
+> 用Vue2.0做的一个简易的v2ex
 
 ## Build Setup
 
